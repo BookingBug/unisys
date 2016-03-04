@@ -1,0 +1,5 @@
+{
+  "company_id": "37000",
+  "api_url": "http://localhost:3000",
+  "assets_url": "http://localhost:8000"
+}
