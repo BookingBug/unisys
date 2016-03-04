@@ -13,7 +13,7 @@
     "tests"
   ],
   "dependencies": {
-    "bookingbug-angular-public-booking": "0.0.281"
+    "bookingbug-angular-public-booking": "0.0.306"
   },
   "resolutions": {
     "angular": "~1.2.25",
